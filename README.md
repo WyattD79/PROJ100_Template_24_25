@@ -6,8 +6,8 @@
 <h1 align="center">PROJ100 Bead-Pushing Challenge 2024-25</h1>
 
 <div align="center">
-<p>This repository contains the starter code for the PROJ100 buggy build.</p>
-<p>Libraries which have been created to simplify the interactions between hardware and software.</p>
+<h4>This repository contains the starter code for the PROJ100 buggy build.</h4>
+<h4>Libraries which have been created to simplify the interactions between hardware and software.</h4>
 <br>
 </br>
 <p>Examples have been provided which display:-</p>
